@@ -5,6 +5,7 @@ Note: Regarding JAR file creation and usage, please refer to [the Guideline](htt
 
 ## Introduction
 This demo provides a method for recording audio via mic.
+The file is saved in this path(/sdcard/Record/) and named according to the created time.
 
 ## Class name
 ```
