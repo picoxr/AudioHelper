@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AudioHelper</string>
+    <string name="permission_denied">Permission was denied</string>
+</resources>
