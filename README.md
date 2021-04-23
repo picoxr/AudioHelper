@@ -1,6 +1,3 @@
-# AudioHelper
-Record audio via mic
-
 # How to use AudioHelper in Unity
 
 JAR file, demo apk are in /resource.    
